@@ -1,0 +1,1486 @@
+[
+  {
+    "name": "Abi-Dalzim's Horrid Wilting",
+    "level": 8,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Absorb Elements",
+    "level": 1,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Acid Splash",
+    "level": 0,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Aganazzar's Scorcher",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  { "name": "Alarm", "level": 1, "school": "Abjuration", "inSpellbook": false },
+  {
+    "name": "Alter Self",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Animate Dead",
+    "level": 3,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Animate Objects",
+    "level": 5,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Antimagic Field",
+    "level": 8,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Antipathy/Sympathy",
+    "level": 8,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Arcane Eye",
+    "level": 4,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Arcane Gate",
+    "level": 6,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Arcane Lock",
+    "level": 2,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Astral Projection",
+    "level": 9,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Banishment",
+    "level": 4,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Beast Bond",
+    "level": 1,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Bestow Curse",
+    "level": 3,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Bigby's Hand",
+    "level": 5,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Blade Ward",
+    "level": 0,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Blight",
+    "level": 4,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Blindness/Deafness",
+    "level": 2,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Blink",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  { "name": "Blur", "level": 2, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Booming Blade",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Burning Hands",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Catapult",
+    "level": 1,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Chain Lightning",
+    "level": 6,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Charm Person",
+    "level": 1,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Chill Touch",
+    "level": 0,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Chromatic Orb",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Circle of Death",
+    "level": 6,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Clairvoyance",
+    "level": 3,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  { "name": "Clone", "level": 8, "school": "Necromancy", "inSpellbook": false },
+  {
+    "name": "Cloud of Daggers",
+    "level": 2,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Cloudkill",
+    "level": 5,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Color Spray",
+    "level": 1,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Comprehend Languages",
+    "level": 1,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Cone of Cold",
+    "level": 5,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Confusion",
+    "level": 4,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Conjure Elemental",
+    "level": 5,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Conjure Minor Elementals",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Contact Other Plane",
+    "level": 5,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Contingency",
+    "level": 6,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Continual Flame",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Control Flames",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Control Water",
+    "level": 4,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Control Weather",
+    "level": 8,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Control Winds",
+    "level": 5,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Counterspell",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Create Bonfire",
+    "level": 0,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Create Undead",
+    "level": 6,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Creation",
+    "level": 5,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Crown of Madness",
+    "level": 2,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Dancing Lights",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Darkness",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Darkvision",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Delayed Blast Fireball",
+    "level": 7,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Demiplane",
+    "level": 8,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Detect Magic",
+    "level": 1,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Detect Thoughts",
+    "level": 2,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Dimension Door",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Disguise Self",
+    "level": 1,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Disintegrate",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Dispel Magic",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Drawmij's Instant Summons",
+    "level": 6,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Dominate Monster",
+    "level": 8,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Dominate Person",
+    "level": 5,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  { "name": "Dream", "level": 5, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Dust Devil",
+    "level": 2,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Earth Tremor",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Earthbind",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Elemental Bane",
+    "level": 4,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Enlarge/Reduce",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Erupting Earth",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Etherealness",
+    "level": 7,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Evard's Black Tentacles",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Expeditious Retreat",
+    "level": 1,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Eyebite",
+    "level": 6,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fabricate",
+    "level": 4,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "False Life",
+    "level": 1,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  { "name": "Fear", "level": 3, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Feather Fall",
+    "level": 1,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Feeblemind",
+    "level": 8,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Feign Death",
+    "level": 3,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Find Familiar",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Finger of Death",
+    "level": 7,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fireball",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fire Bolt",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fire Shield",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Flame Arrows",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Flaming Sphere",
+    "level": 2,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Flesh to Stone",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fly",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Fog Cloud",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Forcecage",
+    "level": 7,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Foresight",
+    "level": 9,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Friends",
+    "level": 0,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Frostbite",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Gaseous Form",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  { "name": "Gate", "level": 9, "school": "Conjuration", "inSpellbook": false },
+  { "name": "Geas", "level": 5, "school": "Enchantment", "inSpellbook": false },
+  {
+    "name": "Gentle Repose",
+    "level": 2,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Globe of Invulnerability",
+    "level": 6,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Glyph of Warding",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Grease",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Greater Invisibility",
+    "level": 4,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Green-Flame Blade",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Guards and Wards",
+    "level": 6,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Gust",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Gust of Wind",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Hallucinatory Terrain",
+    "level": 4,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Haste",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Hold Monster",
+    "level": 5,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Hold Person",
+    "level": 2,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Hypnotic Pattern",
+    "level": 3,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Ice Knife",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Ice Storm",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Identify",
+    "level": 1,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Illusory Script",
+    "level": 1,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Immolation",
+    "level": 5,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Imprisonment",
+    "level": 9,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Incendiary Cloud",
+    "level": 8,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Investiture of Flame",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Investiture of Ice",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Investiture of Stone",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Investiture of Wind",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Invisibility",
+    "level": 2,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Jump",
+    "level": 1,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Knock",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Legend Lore",
+    "level": 5,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Leomund's Secret Chest",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Leomund's Tiny Hut",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Levitate",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  { "name": "Light", "level": 0, "school": "Evocation", "inSpellbook": false },
+  {
+    "name": "Lightning Bolt",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Lightning Lure",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Locate Creature",
+    "level": 4,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Locate Object",
+    "level": 2,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Longstrider",
+    "level": 1,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mage Armor",
+    "level": 1,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mage Hand",
+    "level": 0,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Magic Circle",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Magic Jar",
+    "level": 6,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Magic Missile",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Magic Mouth",
+    "level": 2,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Magic Weapon",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Major Image",
+    "level": 3,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mass Suggestion",
+    "level": 6,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Maximilian's Earthen Grasp",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  { "name": "Maze", "level": 8, "school": "Conjuration", "inSpellbook": false },
+  {
+    "name": "Melf's Acid Arrow",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Melf's Minute Meteors",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mending",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Message",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Meteor Swarm",
+    "level": 9,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mind Blank",
+    "level": 8,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Minor Illusion",
+    "level": 0,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mirage Arcane",
+    "level": 7,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mirror Image",
+    "level": 2,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  { "name": "Mislead", "level": 5, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Misty Step",
+    "level": 2,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Modify Memory",
+    "level": 5,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mold Earth",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mordenkainen's Faithful Hound",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mordenkainen's Magnificent Mansion",
+    "level": 7,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mordenkainen's Private Sanctum",
+    "level": 4,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Mordenkainen's Sword",
+    "level": 7,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Move Earth",
+    "level": 6,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Nondetection",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Nystul's Magic Aura",
+    "level": 2,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Otiluke's Freezing Sphere",
+    "level": 6,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Otiluke's Resilient Sphere",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Otto's Irresistible Dance",
+    "level": 6,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Passwall",
+    "level": 5,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Permanent Image",
+    "level": 6,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Phantasmal Force",
+    "level": 2,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Phantasmal Killer",
+    "level": 4,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Phantom Steed",
+    "level": 3,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Planar Binding",
+    "level": 5,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Plane Shift",
+    "level": 7,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Poison Spray",
+    "level": 0,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Polymorph",
+    "level": 4,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Power Word Kill",
+    "level": 9,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Power Word Stun",
+    "level": 8,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Prestidigitation",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Prismatic Spray",
+    "level": 7,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Prismatic Wall",
+    "level": 9,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Programmed Illusion",
+    "level": 6,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Project Image",
+    "level": 7,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Protection from Energy",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Protection from Evil and Good",
+    "level": 1,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Pyrotechnics",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Rary's Telepathic Bond",
+    "level": 5,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Ray of Enfeeblement",
+    "level": 2,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Ray of Frost",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Ray of Sickness",
+    "level": 1,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Remove Curse",
+    "level": 3,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Reverse Gravity",
+    "level": 7,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Rope Trick",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Scorching Ray",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Scrying",
+    "level": 5,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "See Invisibility",
+    "level": 2,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  { "name": "Seeming", "level": 5, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Sending",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sequester",
+    "level": 7,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Shape Water",
+    "level": 0,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Shapechange",
+    "level": 9,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Shatter",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Shield",
+    "level": 1,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Shocking Grasp",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Silent Image",
+    "level": 1,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Simulacrum",
+    "level": 7,
+    "school": "Illusion",
+    "inSpellbook": false
+  },
+  {
+    "name": "Skywrite",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sleep",
+    "level": 1,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sleet Storm",
+    "level": 3,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Slow",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Snilloc's Snowball Swarm",
+    "level": 2,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Spider Climb",
+    "level": 2,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Stinking Cloud",
+    "level": 3,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Stone Shape",
+    "level": 4,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Stoneskin",
+    "level": 4,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Storm Sphere",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Suggestion",
+    "level": 2,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sunbeam",
+    "level": 6,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sunburst",
+    "level": 8,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Sword Burst",
+    "level": 0,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Symbol",
+    "level": 7,
+    "school": "Abjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Tasha's Hideous Laughter",
+    "level": 1,
+    "school": "Enchantment",
+    "inSpellbook": false
+  },
+  {
+    "name": "Telekinesis",
+    "level": 5,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Telepathy",
+    "level": 8,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Teleport",
+    "level": 7,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Teleportation Circle",
+    "level": 5,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Tenser's Floating Disk",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Thunderclap",
+    "level": 0,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Thunderwave",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Tidal Wave",
+    "level": 3,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Time Stop",
+    "level": 9,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Tongues",
+    "level": 3,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Transmute Rock",
+    "level": 5,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Trap the Soul",
+    "level": 8,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "True Polymorph",
+    "level": 9,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "True Seeing",
+    "level": 6,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "True Strike",
+    "level": 0,
+    "school": "Divination",
+    "inSpellbook": false
+  },
+  {
+    "name": "Unseen Servant",
+    "level": 1,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  {
+    "name": "Vampiric Touch",
+    "level": 3,
+    "school": "Necromancy",
+    "inSpellbook": false
+  },
+  {
+    "name": "Vitriolic Sphere",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Fire",
+    "level": 4,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Force",
+    "level": 5,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Ice",
+    "level": 6,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Sand",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Stone",
+    "level": 5,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Wall of Water",
+    "level": 3,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Water Breathing",
+    "level": 3,
+    "school": "Transmutation",
+    "inSpellbook": false
+  },
+  {
+    "name": "Watery Sphere",
+    "level": 4,
+    "school": "Conjuration",
+    "inSpellbook": false
+  },
+  { "name": "Web", "level": 2, "school": "Conjuration", "inSpellbook": false },
+  { "name": "Weird", "level": 9, "school": "Illusion", "inSpellbook": false },
+  {
+    "name": "Whirlwind",
+    "level": 7,
+    "school": "Evocation",
+    "inSpellbook": false
+  },
+  { "name": "Wish", "level": 9, "school": "Conjuration", "inSpellbook": false },
+  {
+    "name": "Witch Bolt",
+    "level": 1,
+    "school": "Evocation",
+    "inSpellbook": false
+  }
+]
