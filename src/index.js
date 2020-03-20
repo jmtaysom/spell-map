@@ -9,12 +9,14 @@ function SpellRow(props) {
       <input
         type="checkbox"
         className="spell"
-        id={props.spellname}
+        id={props.component + props.spellname}
         name={props.spellname}
         checked={props.spell.spellbook}
         onChange={props.handleChange}
       />
-      <label htmlFor={props.spellname}>{props.spellname}</label>
+      <label htmlFor={props.component + props.spellname}>
+        {props.spellname}
+      </label>
     </div>
   );
 }
@@ -29,6 +31,7 @@ function SpellBook(props) {
       spell={spells[keyName]}
       spellname={keyName}
       handleChange={props.handleChange}
+      component="spellBook"
     />
   ));
   return <form>{spellItems}</form>;
@@ -46,9 +49,35 @@ function SpellList(props) {
       spell={spells[keyName]}
       spellname={keyName}
       handleChange={props.handleChange}
+      component="spellLlist"
     />
   ));
   return <form>{spellItems}</form>;
+}
+
+function SpellMap(props) {
+  const spells = props.spells;
+  const spellList = Object.keys(spells);
+  const filteredList = spellList.filter(spell => spells[spell].inMap);
+
+  const sortedList = filteredList.sort(function(a, b) {
+    const alevel = spells[a].level;
+    const blevel = spells[b].level;
+    const aschool = spells[a].school;
+    const bschool = spells[b].school;
+    if (alevel === blevel) {
+      if (aschool < bschool) {
+        return -1;
+      } else {
+        return 1;
+      }
+    } else {
+      return alevel < blevel;
+    }
+  });
+  console.log(sortedList);
+  const listItems = sortedList.map(spell => <li key={spell}>{spell}</li>);
+  return <ul>{listItems}</ul>;
 }
 
 class Weave extends React.Component {
@@ -67,6 +96,9 @@ class Weave extends React.Component {
     const spells = this.state.spells;
     const spell = spells[target.name];
     spell.inSpellbook = !spell.inSpellbook;
+    if (!spell.inSpellbook) {
+      spell.inMap = false;
+    }
     this.setState({ spell: spell });
   }
 
@@ -92,6 +124,9 @@ class Weave extends React.Component {
             spells={this.state.spells}
             handleChange={this.handleBook}
           />
+        </div>
+        <div className="spellmap">
+          <SpellMap spells={this.state.spells} />
         </div>
       </div>
     );
