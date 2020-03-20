@@ -19,6 +19,21 @@ function SpellRow(props) {
   );
 }
 
+function SpellBook(props) {
+  const spells = props.spells;
+  const spellList = Object.keys(spells);
+  const spellBook = spellList.filter(spell => spells[spell].inSpellbook);
+  const spellItems = spellBook.map((keyName, i) => (
+    <SpellRow
+      key={keyName}
+      spell={spells[keyName]}
+      spellname={keyName}
+      handleChange={props.handleChange}
+    />
+  ));
+  return <form>{spellItems}</form>;
+}
+
 function SpellList(props) {
   const spells = props.spells;
   const spellList = Object.keys(spells);
@@ -39,11 +54,15 @@ function SpellList(props) {
 class Weave extends React.Component {
   constructor(props) {
     super(props);
-    this.handleChange = this.handleChange.bind(this);
-    this.state = { spells: this.props.spells };
+    this.handleList = this.handleList.bind(this);
+    this.handleBook = this.handleBook.bind(this);
+    this.state = {
+      spells: this.props.spells,
+      nodes: {}
+    };
   }
 
-  handleChange(event) {
+  handleList(event) {
     const target = event.target;
     const spells = this.state.spells;
     const spell = spells[target.name];
@@ -51,13 +70,29 @@ class Weave extends React.Component {
     this.setState({ spell: spell });
   }
 
+  handleBook(event) {
+    const target = event.target;
+    const spells = this.state.spells;
+    const spell = spells[target.name];
+    spell.inMap = !spell.inMap;
+    this.setState({ spell: spell });
+  }
+
   render() {
     return (
       <div>
-        <SpellList
-          spells={this.state.spells}
-          handleChange={this.handleChange}
-        />
+        <div className="spelllist">
+          <SpellList
+            spells={this.state.spells}
+            handleChange={this.handleList}
+          />
+        </div>
+        <div className="spellbook">
+          <SpellBook
+            spells={this.state.spells}
+            handleChange={this.handleBook}
+          />
+        </div>
       </div>
     );
   }

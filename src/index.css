@@ -1,0 +1,21 @@
+.spelllist,
+.spellbook,
+.spellmap {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  vertical-align: top;
+  font-size: 12px;
+}
+
+.spelllist {
+  width: 25%;
+}
+
+.spellbook {
+  width: 25%;
+}
+
+.spellbook {
+  width: 50%;
+}
