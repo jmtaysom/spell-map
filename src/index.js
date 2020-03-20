@@ -9,31 +9,30 @@ function SpellRow(props) {
       <input
         type="checkbox"
         className="spell"
-        id={props.spell.name}
-        name={props.spell.name}
+        id={props.spellname}
+        name={props.spellname}
         checked={props.spell.spellbook}
         onChange={props.handleChange}
       />
-      <label htmlFor={props.spell.name}>{props.spell.name}</label>
+      <label htmlFor={props.spellname}>{props.spellname}</label>
     </div>
   );
 }
 
 function SpellList(props) {
   const spells = props.spells;
-  const orderedSpells = spells.sort(function(a, b) {
-    return a.level - b.level;
+  const spellList = Object.keys(spells);
+  const orderedSpells = spellList.sort(function(a, b) {
+    return spells[a].level - spells[b].level;
   });
-  const spellItems = orderedSpells.map(spell => (
+  const spellItems = orderedSpells.map((keyName, i) => (
     <SpellRow
-      key={spell.name}
-      spell={spell}
+      key={keyName}
+      spell={spells[keyName]}
+      spellname={keyName}
       handleChange={props.handleChange}
     />
   ));
-  // const spellItems = spells.map(spell => (
-  //   <SpellRow key={spell.key} spell={spell} handleChange={props.handleChange} />
-  // ));
   return <form>{spellItems}</form>;
 }
 
@@ -46,9 +45,10 @@ class Weave extends React.Component {
 
   handleChange(event) {
     const target = event.target;
-    const value = target.name;
     const spells = this.state.spells;
-    console.log(target.checked);
+    const spell = spells[target.name];
+    spell.inSpellbook = !spell.inSpellbook;
+    this.setState({ spell: spell });
   }
 
   render() {
